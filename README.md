@@ -14,7 +14,7 @@ A React-based news application showcasing the latest technology news articles. T
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone "https://github.com/Supriyasus/fake_real_news.git"
    cd technospark_newsroom
    ```
 
